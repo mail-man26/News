@@ -25,6 +25,18 @@ This app uses the following Flutter packages:
 - [shared_preferences](https://pub.dev/packages/shared_preferences): For storing bookmarked articles.
 - [webview_flutter](https://pub.dev/packages/webview_flutter): For displaying article content in a WebView.
 - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons): For generating launcher icons.
+![WhatsApp Image 2023-08-20 at 7 11 22 AM](https://github.com/mail-man26/News/assets/70205280/8a59d220-38a1-40d4-8fb6-091344bd8597)
+
+  Screenshots:
+![WhatsApp Image 2023-08-20 at 7 11 22 AM](https://github.com/mail-man26/News/assets/70205280/c60041d5-3ce6-4378-954e-8c948dc87f9f)
+![WhatsApp Image 2023-08-20 at 7 11 23 AM](https://github.com/mail-man26/News/assets/70205280/30ce6e85-36a7-4407-ae1f-af8d0a4c5c83)
+
+
+
+
+![WhatsApp Image 2023-08-20 at 7 11 23 AM (1)](https://github.com/mail-man26/News/assets/70205280/94879390-fd3d-4471-911b-d33e07e2bdae)
+
+![WhatsApp Image 2023-08-20 at 7 11 24 AM](https://github.com/mail-man26/News/assets/70205280/3b6a6ae4-0d0e-4dd2-a55e-47ae86d33a1e)
 
 To install the dependencies, run:
 
@@ -39,8 +51,4 @@ flutter run
 
 #Screenshots
 
-![WhatsApp Image 2023-08-20 at 7 11 22 AM](https://github.com/mail-man26/News/assets/70205280/d10266bc-89f1-40ec-8de8-69360c6c2064)
 
-![WhatsApp Image 2023-08-20 at 7 11 23 AM](https://github.com/mail-man26/News/assets/70205280/210ea667-5e7e-4d44-9682-ec19828804ce)
-![WhatsApp Image 2023-08-20 at 7 11 23 AM (1)](https://github.com/mail-man26/News/assets/70205280/843bffed-012a-4709-b6e0-75a8aad07715)
-![WhatsApp Image 2023-08-20 at 7 11 24 AM](https://github.com/mail-man26/News/assets/70205280/926322a4-359a-43b1-92e6-00d6cdc0c7de)
