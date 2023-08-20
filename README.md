@@ -3,7 +3,7 @@ This Application is a simple implementation of a real time news app using newsap
 
 # Flutter News App
 
-A Flutter app that displays news articles from various categories and allows users to bookmark their favorite articles.
+A Flutter app that displays news articles from various categories and allows users to bookmark their favorite articles and user can search for their desired news articles too.
 
 
 ## Introduction
@@ -36,3 +36,11 @@ Then in terminal run,
 
 flutter pub get
 flutter run
+
+#Screenshots
+
+![WhatsApp Image 2023-08-20 at 7 11 22 AM](https://github.com/mail-man26/News/assets/70205280/d10266bc-89f1-40ec-8de8-69360c6c2064)
+
+![WhatsApp Image 2023-08-20 at 7 11 23 AM](https://github.com/mail-man26/News/assets/70205280/210ea667-5e7e-4d44-9682-ec19828804ce)
+![WhatsApp Image 2023-08-20 at 7 11 23 AM (1)](https://github.com/mail-man26/News/assets/70205280/843bffed-012a-4709-b6e0-75a8aad07715)
+![WhatsApp Image 2023-08-20 at 7 11 24 AM](https://github.com/mail-man26/News/assets/70205280/926322a4-359a-43b1-92e6-00d6cdc0c7de)
